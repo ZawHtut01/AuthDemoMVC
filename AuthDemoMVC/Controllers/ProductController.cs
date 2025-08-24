@@ -19,21 +19,6 @@ namespace AuthDemoMVC.Controllers
             return View();
         }
 
-        public IActionResult Test2()
-        {
-            var name = "Zaw Htut";
-            return View();
-        }
-        
-        public IActionResult Test3()
-        {
-            var name = "Test 3";
-            return View();
-        }
-
-        public IActionResult Test4()
-        {
-            return View();
-        }
+       
     }
 }
