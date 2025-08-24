@@ -14,10 +14,20 @@ namespace AuthDemoMVC.Controllers
             return View();
         }
 
-        public IActionResult OriginalDevelop ()
+        public IActionResult OriginalDevelop()
         {
             return View();
         }
-        
+
+        public IActionResult Test3()
+        {
+            return View();
+        }
+
+        public IActionResult Test4()
+        {
+            return View();
+        }
+
     }
 }
