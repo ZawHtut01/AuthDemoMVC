@@ -9,6 +9,9 @@ namespace AuthDemoMVC.Controllers
             return View();
         }
 
-        
+        public IActionResult DevelopBranch()
+        {
+            return View();
+        }
     }
 }
