@@ -27,6 +27,7 @@ namespace AuthDemoMVC.Controllers
         
         public IActionResult Test3()
         {
+            var name = "Test 3";
             return View();
         }
 
