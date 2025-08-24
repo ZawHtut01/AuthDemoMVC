@@ -13,6 +13,11 @@ namespace AuthDemoMVC.Controllers
         {
             return View();
         }
+
+        public IActionResult Testing()
+        {
+            return View();
+        }
         
     }
 }
