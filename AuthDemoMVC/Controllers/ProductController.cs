@@ -14,7 +14,7 @@ namespace AuthDemoMVC.Controllers
             return View();
         }
 
-        public IActionResult Testing()
+        public IActionResult TestChange()
         {
             return View();
         }
